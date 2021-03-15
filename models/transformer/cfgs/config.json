@@ -1,0 +1,9 @@
+{
+    "n_layer" : 6,
+    "d_model": 512,
+    "d_ff" : 512,
+    "n_head" : 4,
+    "d_head" : 64,
+    "dropout" : 0.1,
+    "n_classes" : 5,
+}

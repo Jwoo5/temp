@@ -1,0 +1,5 @@
+{
+    "n_layer" : 5,
+    "d_model": 32,
+    "n_classes" : 5
+}

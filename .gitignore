@@ -1,0 +1,8 @@
+example.py
+/data/
+/mitbih/
+/imgs/*.py
+/models/fairseq/
+*.pth
+__pycache__
+wandb
