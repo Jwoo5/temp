@@ -255,7 +255,7 @@ def train(rank, world_size, args):
                     contrastive_loss = F.cross_entropy(
                         logits,
                         target,
-                        reduction = "sum"
+                        reduction = 'sum'
                         )
 
                     sample_size = target.numel()
